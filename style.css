@@ -1,0 +1,18 @@
+ul{
+  list-style-type: none;
+}
+
+img{
+ width: 50 px;
+ height: 40 px;
+ float: right;
+}
+.events{
+  font-weight: bold;
+}
+h1{
+  text-align: left;
+}
+.desc{
+  float: right;
+}
