@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T09:00:15.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="jKeuiTryQOnjPlbR2Oxi" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T09:00:27.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="at3XEWkGAM4kfuHugTvF" version="14.2.7" type="github">
   <diagram id="hcMy2Z_y78sN9fAc1JS5" name="Page-1">
     <mxGraphModel dx="626" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="thtb-wzZfUm6oHh2rwaZ-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
           <mxGeometry x="142.5" y="120" width="22.5" height="23.75" as="geometry" />
         </mxCell>
-        <mxCell id="thtb-wzZfUm6oHh2rwaZ-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
+        <mxCell id="thtb-wzZfUm6oHh2rwaZ-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
           <mxGeometry x="142.5" y="29.370000000000005" width="22.5" height="23.75" as="geometry" />
         </mxCell>
       </root>
