@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T08:09:23.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="9SkNlZNh-zka-E42XizJ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T09:00:27.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="at3XEWkGAM4kfuHugTvF" version="14.2.7" type="github">
   <diagram id="hcMy2Z_y78sN9fAc1JS5" name="Page-1">
-    <mxGraphModel dx="626" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="626" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="thtb-wzZfUm6oHh2rwaZ-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="300" y="70" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="thtb-wzZfUm6oHh2rwaZ-2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#eeeeee;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="thtb-wzZfUm6oHh2rwaZ-2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="100" width="185" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="thtb-wzZfUm6oHh2rwaZ-3" value="&lt;b&gt;London fashion week&lt;/b&gt;&lt;br&gt;Gennaio 2021" style="strokeColor=#666666;fillColor=#f5f5f5;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;gradientColor=#b3b3b3;" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
+        <mxCell id="thtb-wzZfUm6oHh2rwaZ-3" value="&lt;b&gt;London fashion week&lt;/b&gt;&lt;br&gt;Gennaio 2021" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
           <mxGeometry width="185" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="thtb-wzZfUm6oHh2rwaZ-4" value="&lt;b&gt;Reaburn London&lt;/b&gt;&lt;br&gt;Febbraio 2021" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
@@ -21,6 +21,18 @@
         </mxCell>
         <mxCell id="thtb-wzZfUm6oHh2rwaZ-6" value="&lt;b&gt;Hackey London&lt;/b&gt;&lt;br&gt;Aprile 2022" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
           <mxGeometry y="247.5" width="185" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="thtb-wzZfUm6oHh2rwaZ-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
+          <mxGeometry x="142.5" y="280" width="22.5" height="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="thtb-wzZfUm6oHh2rwaZ-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
+          <mxGeometry x="142.5" y="200" width="22.5" height="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="thtb-wzZfUm6oHh2rwaZ-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
+          <mxGeometry x="142.5" y="120" width="22.5" height="23.75" as="geometry" />
+        </mxCell>
+        <mxCell id="thtb-wzZfUm6oHh2rwaZ-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="thtb-wzZfUm6oHh2rwaZ-2">
+          <mxGeometry x="142.5" y="29.370000000000005" width="22.5" height="23.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
